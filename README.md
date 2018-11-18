@@ -1,5 +1,5 @@
 # jupyter-textfsm
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jgroom33/jupyter-textfsm.git/master)
+Launch the [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jgroom33/jupyter-textfsm.git/master)
 
-Open the notebook and practice textfsm
+Then open the notebook and practice textfsm
