@@ -1,0 +1,10 @@
+Value Filldown hostname (\S+)
+Value name (.+)
+Value type (.*)
+Value state (\S*)
+
+
+Start
+  ^${hostname}[>#].*
+  ^switchName: "${name}", switchType: "${type}"
+  ^switchState: ${state} -> Record
